@@ -3,7 +3,7 @@ package br.com.diomar.hackerrank;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class TesteValley {
+public class CountingValley {
 
     // Complete the countingValleys function below.
     static int countingValleys(int n, String s) {

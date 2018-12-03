@@ -2,7 +2,7 @@ package br.com.diomar.hackerrank;
 
 import java.io.IOException;
 
-public class TesteInfiniteString {
+public class InfiniteString {
 
 	static long repeatedString(String s, long n) {
 		long count = 0;
